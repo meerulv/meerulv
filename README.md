@@ -8,7 +8,7 @@
 - 🚀 I'm also exploring on React Native advance animations.
 
 <br/><br/>
-<sup>*I have a different account for day job/work purposes. Using this account to explore new technologies and some freelance work.</sup>
+<sup>*I have a different account (<a href="https://github.com/arifamee" target="_blank">@arifamee</a>) for day job/work purposes. Using this account to explore new technologies and some freelance work.</sup>
 
 <!---
 - 💞️ I’m looking to collaborate on ...
