@@ -2,7 +2,7 @@
 ## ✨ Ameerul Arif Mohd Azni ✨
 
 - 👋 Hi, I’m @meerulv , can call me Amee.
-- ⚓  Laravel, React (JS, Native, and NextJS), and sometimes VueJs developer.
+- ⚓  Laravel, Livewire, AlpineJS, and sometimes a React (especially NextJS)/Vue Developer.
 - 👀 I’m curious and interested in web scraping and automation.
 - 🌱 I’m currently learning on AWS EC2 optimisation.
 - 🚀 I'm also exploring on React Native advance animations.
